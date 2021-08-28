@@ -1,4 +1,1 @@
-from hikari import *
-
-# TODO
-Bot = BotApp
+from .bot import *
